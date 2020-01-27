@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Personal Website of Sara Anne Goring</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Sara Anne Goring is a PhD graduate student at Claremont Graduate University. Her research interests include language, rationality, intelligence, and aging. Additionally her research involves statistical modeling techniques like latent variable modeling and psychometric network analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Andrew R.A. Conway</title>
+      <link>/authors/andrew-r.a.-conway/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/andrew-r.a.-conway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristof Kovacs</title>
+      <link>/authors/kristof-kovacs/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/kristof-kovacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sara Anne Goring</title>
+      <link>/authors/sara-anne-goring/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/sara-anne-goring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christopher J. Schmank</title>
+      <link>/authors/christopher-j.-schmank/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/christopher-j.-schmank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael J. Kane</title>
+      <link>/authors/michael-j.-kane/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-j.-kane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lori E. James</title>
+      <link>/authors/lori-e.-james/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/lori-e.-james/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

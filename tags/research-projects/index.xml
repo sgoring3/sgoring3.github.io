@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Projects | Personal Website of Sara Anne Goring</title>
+    <link>/tags/research-projects/</link>
+      <atom:link href="/tags/research-projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Research Projects</title>
+      <link>/tags/research-projects/</link>
+    </image>
+    
+    <item>
+      <title>The DARCI Project</title>
+      <link>/project/project-darci/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/project/project-darci/</guid>
+      <description>&lt;p&gt;More information to come soon!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unified Models of Cognitive Ability</title>
+      <link>/project/exploring-psychometric-networks-of-cognitive-ability/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/project/exploring-psychometric-networks-of-cognitive-ability/</guid>
+      <description>&lt;p&gt;More information to come soon!!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
